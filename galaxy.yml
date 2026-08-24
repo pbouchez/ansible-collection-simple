@@ -1,7 +1,7 @@
 ---
-namespace: "sedunne"
+namespace: "pbouchez"
 name: "simple"
-version: "1.4.0"
+version: "1.4.1"
 readme: "README.md"
 authors:
   - "Stephen Dunne"
